@@ -1,0 +1,29 @@
+{
+  "name": "express",
+  "version": "0.0.0",
+  "authors": [
+    "Dinesh V <dinesh@auctionsoftware.com>"
+  ],
+  "description": "sample application",
+  "keywords": [
+    "express",
+    "test",
+    "hello",
+    "world",
+    "bower",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "jquery-validation": "~1.14.0"
+  }
+}
